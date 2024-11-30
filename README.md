@@ -1,11 +1,9 @@
 # White_Cade_Dev2501
 
-This repo is for my Github overview from class.
+## Top GitHub Terminal Commands
 
-## Hello! My name is Cade White
-
-Program Name: TBD
+1: git clone - git clone (url)
 <br>
-Class Name: Interface Programming - Online
+2: git push - git push origin (branch)
 <br>
-Month of Class: December, 2024
+3: git checkout - git checkout (branch)
